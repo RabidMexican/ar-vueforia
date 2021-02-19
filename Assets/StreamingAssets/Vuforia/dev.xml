@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="train" size="0.300000 0.228571" />
+    <ImageTarget name="sponge" size="0.300000 0.199587" />
+    <ImageTarget name="socks" size="0.300000 0.238824" />
+    <ImageTarget name="rocket" size="0.300000 0.287257" />
+    <ImageTarget name="jeans" size="0.300000 0.300000" />
+    <ImageTarget name="cat" size="0.300000 0.370637" />
+    <ImageTarget name="candy" size="0.300000 0.413397" />
+    <ImageTarget name="bear" size="0.300000 0.344776" />
+    <ImageTarget name="balloons" size="0.300000 0.300000" />
+    <ImageTarget name="backpack" size="0.300000 0.300000" />
+    <ImageTarget name="apple" size="0.300000 0.300000" />
+    <ImageTarget name="aeroplane" size="0.300000 0.209949" />
+    <ImageTarget name="motorbike" size="0.300000 0.225000" />
+  </Tracking>
+</QCARConfig>
